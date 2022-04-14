@@ -1,0 +1,14 @@
+.container{
+    /* display: grid; */
+  }
+
+div {
+    font-size: medium;
+}
+
+button {
+    width: 100px;
+    color: blue;
+    padding: 5px;
+    margin: 5px;
+}
