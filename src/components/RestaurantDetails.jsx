@@ -3,7 +3,7 @@ import "./RestaurantDetails.css";
 import Menu from "./RestaurantData";
 import MenuCard from "./Menu";
 import { useState } from "react";
-import Navbar from "./Navbar";
+// import Navbar from "./Navbar";
 
 const Restaurant = () => {
   const [menuData, setMenuData] = useState(Menu);
